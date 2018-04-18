@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <HelloWorld msg="Track your temp data"/>
+    <HelloWorld msg="Track the temp nodes"/>
 
   </div>
 </template>
